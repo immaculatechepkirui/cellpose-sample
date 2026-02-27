@@ -1,0 +1,12 @@
+﻿cellpose
+opencv-python
+pandas
+numpy
+torch
+torchvision
+scikit-image
+scipy
+scikit-learn
+joblib
+matplotlib
+Pillow
